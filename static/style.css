@@ -1,0 +1,51 @@
+body {
+margin-left: 15%;
+margin-right: 15%;
+background-color: white;
+font-size: x-large
+}
+
+h1 {
+font-size: 32px;
+}
+
+h1, h2, h3 {
+margin-top: 1.5em;
+font-family: Arial;
+}
+
+table {
+border-collapse: collapse;
+border: 1px solid;
+display: table;
+font-size: large;
+}
+
+thead {
+background-color: white;
+}
+
+figure {
+margin: 9px 0px 8px 40px;
+align: right;
+float: right; }
+
+figcaption {
+font-style: italic;
+}
+
+tbody tr:nth-child(even) {
+background-color: #DCDCDC;
+}
+
+figcaption {
+font-size: large;
+}
+
+p {
+color: black;
+}
+
+ol {
+font-size: large;
+}
